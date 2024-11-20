@@ -17,7 +17,7 @@ const Hero = () => {
             <div className='w-[80%] grid mx-auto grid-cols-1 lg:grid-cols-2 h-[100%] gap-[3rem] items-center'>
                 <div>
                     <h1 className='text-[35px] md:text-[50px] font-bold text-white'>
-                        HI, I'M
+                        HI, I&apos;M
                         <span className='text-yellow-400'> MAHIMA ROHIT!</span>
                     </h1>
                     <TextEffect />

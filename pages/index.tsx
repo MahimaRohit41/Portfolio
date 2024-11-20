@@ -10,7 +10,7 @@ import React, { useEffect, useState } from 'react';
 import AOS from 'aos';
 import 'aos/dist/aos.css'; 
 
-const index = () => {
+const Index = () => {
   useEffect(() => {
 
 // You can also pass an optional settings object
@@ -73,4 +73,4 @@ AOS.init({
   )
 }
 
-export default index;
+export default Index;

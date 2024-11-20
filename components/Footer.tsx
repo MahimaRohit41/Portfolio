@@ -1,4 +1,3 @@
-import { MapIcon } from '@heroicons/react/16/solid'
 import { DevicePhoneMobileIcon, EnvelopeIcon, LinkIcon } from '@heroicons/react/20/solid'
 import React from 'react'
 
@@ -12,7 +11,7 @@ const Footer = () => {
           </a>
           <div>
             <h1 className='text-[25px] mb-[0.2rem] font-semibold text-[white]'>
-              Let's Connect
+              Let&apos;s Connect
               <a href='https://www.linkedin.com/in/mahima-rohit-4938761b3/' target='_blank' className='block text-[17px] w-[90%] text-white opacity-60'>
               linkedin.com/in/mahima-rohit-4938761b3/              </a>
             </h1>
