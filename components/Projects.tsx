@@ -26,7 +26,7 @@ const Projects = () => {
 
             <a href='https://github.com/MahimaRohit41/Portfolio' target='_blank' data-aos="fade-up" data-aos-delay="900">
                 <div className='transform cursor-pointer hover:-translate-y-6 transition-all duration-200 relative w-[100%] h-[200px] md:h-[300px] '>
-                    <Image src='/image/portfolio.png' alt='Portfolio' layout='fill' className='object-contain'/> 
+                    <Image src='/image/Portfolio.png' alt='Portfolio' layout='fill' className='object-contain'/> 
                 </div>
             </a>
             {/* <div data-aos="fade-up" data-aos-delay="1200">
