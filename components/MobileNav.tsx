@@ -14,7 +14,7 @@ const MobileNav = ({ nav, closeNav }: props) => {
                 <a href="#home" className="nav-link-mobile" onClick={closeNav}>Home</a>
                 <a href="#about" className="nav-link-mobile" onClick={closeNav} >About</a>
                 <a href="#education" className="nav-link-mobile" onClick={closeNav}>Education</a>
-                <a href="#skills" className="nav-link-mobilek" onClick={closeNav}>Experience/Skills</a>
+                <a href="#skills" className="nav-link-mobile" onClick={closeNav}>Experience/Skills</a>
                 <a href="#projects" className="nav-link-mobile" onClick={closeNav}>Projects</a>
                 <a href="#contact" className="nav-link-mobile" onClick={closeNav}>Contact</a>
             </div>
