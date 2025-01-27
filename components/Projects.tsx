@@ -18,9 +18,14 @@ const Projects = () => {
                     <Image src='/image/ChatApp.png' alt='ChatApp' layout='fill' className='object-contain'/> 
                 </div>
             </a>
+            <a href='https://github.com/MahimaRohit41/netflix' target='_blank' data-aos="fade-up" data-aos-delay="600">
+                <div className='transform cursor-pointer hover:-translate-y-6 transition-all duration-200 relative w-[100%] h-[200px] md:h-[300px] '>
+                    <Image src='/image/Netflix.png' alt='Netflix' layout='fill' className='object-contain'/> 
+                </div>
+            </a>
             <a href='https://github.com/MahimaRohit41/NewsPanda' target='-blank' data-aos="fade-up">
                 <div className='transform cursor-pointer hover:-translate-y-6 transition-all duration-200 relative w-[100%] h-[200px] md:h-[300px] '>
-                    <Image src='/image/NewsApp.png' alt='Portfolio' layout='fill' className='object-contain'/> 
+                    <Image src='/image/NewsApp.png' alt='NewsApp' layout='fill' className='object-contain'/> 
                 </div>
             </a>
 
